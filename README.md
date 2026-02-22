@@ -21,6 +21,9 @@ and create insightful visualizations.
   2. Effect vs. central concentration (hysteresis loop) – shows the delay.
   3. Effect vs. effect-site concentration – collapses the loop, confirming the model.
 
+<img width="560" height="338" alt="image" src="https://github.com/user-attachments/assets/7588166e-76fe-4be3-92ef-5f236bca716f" />
+
+
 ## Skills Demonstrated
 - MATLAB programming (scripting, function writing, plotting)
 - Numerical methods (solving ODEs with `ode45`)
