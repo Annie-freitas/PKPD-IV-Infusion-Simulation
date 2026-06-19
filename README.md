@@ -1,4 +1,4 @@
-# One Compartment PKPD-IV-Infusion-Simulation: MATLAB simulation of IV infusion pharmacokinetics with effect-site PD model.
+# PKPD-IV-Infusion-Simulation: MATLAB simulation of IV infusion pharmacokinetics with effect-site PD model.
 
 # IV Infusion PKPD Model – MATLAB
 
